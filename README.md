@@ -12,7 +12,7 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 -	Computer Vision
 -	Image Guided Intervention
 
-### PUBLICATIONS
+### Publications
 -	**Lei, W.**, Mei, H., Sun, Z., Ye, S., Gu, R., Wang, H., Huang, R., Zhang, S., Zhang, S. and Wang, G., Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss, **Neurocomputing**, 2020 (1st round revision).
 -	**Lei, W.**, Wang, H., Gu, R., Zhang, S., Zhang, S. and Wang, G.. "DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs."  **MICCAI Workshop LABELs(oral)**, pp. 61-69, 2019.
 -	**Lei, W.**, Mei, H., Gu, R., Zhang, S., Zhang, S. and Wang, G., Thoracic Organs-at-Risks Segmentation using Learnable Intensity Transform and Centroid Distance Regression (under revision).
@@ -38,6 +38,22 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 - [ABCs 2020 challenge](https://abcs.mgh.harvard.edu/):
     - Won the 2nd place in MICCAI 2020 Anatomical Brain Barriers to Cancer Spread (ABCs) Challenge task 1: segmenting 5 brain structures to use for automated definition of the clinical target volume (CTV) for radiotherapy treatment.
     - Won the 2nd place in MICCAI 2020 ABCs task 2: segmenting 10 structures to use in radiotherapy treatment plan optimization.
+
+### Education
+- University of Electronic Science and Technology of China (UESTC), Sichuan, China
+    - Master of Computer Vision and Image Processing, 2018.09 – 2021.07 (Expected)
+- University of Electronic Science and Technology of China (UESTC), Sichuan, China
+    - Bachelor of Industrial Engineering, 2014.09 – 2018.09
+    
+### Research Experience
+- Healthcare Intelligence Lab of UESTC, 2018.2 – Present
+    - Advisor: Pro. Shaoting Zhang, Pro. Guotai Wang and Pro. Kang Li
+- Robotics Research Center of UESTC, 2016.10 – 2017.8
+    - Advisor: Pro. Lu Liang, Pro. Hong Cheng, UESTC
+    - Research: Simulation of Spiking Neural Networks (SNN) and their Memristor-CMOS hardware implementations.
+- Institute of Reliability Engineering of UESTC, 2015.7 – 2016.10
+    - Advisor: Pro. Yu Liu, UESTC
+    - Research: Basic knowledge of Deep Learning and Machine Learning.
 
 ### Markdown
 
