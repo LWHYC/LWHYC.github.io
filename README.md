@@ -1,5 +1,5 @@
 ## Wenhui Lei
-
+<img src="./IMG/img.jpg" align="center">
 University of Electronic Science and Technology of China (UESTC), Sichuan, China
 
 (86) 19983488202丨wenhui.lei@std.uestc.edu.cn
