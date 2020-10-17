@@ -1,9 +1,10 @@
-## Welcome to GitHub Page
+## Wenhui Lei
 
-You can use the [editor on GitHub](https://github.com/LWHYC/LWHYC.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+University of Electronic Science and Technology of China (UESTC), Sichuan, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(86) 19983488202丨wenhui.lei@std.uestc.edu.cn
 
+Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
