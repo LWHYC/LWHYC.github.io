@@ -5,6 +5,13 @@ University of Electronic Science and Technology of China (UESTC), Sichuan, China
 (86) 19983488202丨wenhui.lei@std.uestc.edu.cn
 
 Git: [https://github.com/LWHYC](https://github.com/LWHYC)
+
+### Research Interests
+-	Medical Image Analysis
+-	Complex Network
+-	Computer Vision
+-	Image Guided Intervention
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
