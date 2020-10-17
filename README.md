@@ -28,7 +28,7 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
       1. Segmental Linear Functions (SLFs) transform the intensity of CT images to make multiple organs more distinguishable than existing methods. 
       2. A novel 2.5D network specially designed for dealing with clinic H&N CT scans with anisotropic spacing. 
       3. Our proposed attention to hard voxels (ATH) uses a voxel-level hardness strategy, which is more suitable to dealing with some hard regions despite that its corresponding class may be easy. The paper describing above methods is under revision of Neurocomputing (IF=4.438).
-    -	Won the 2nd place in StructSeg task2 (head and neck tumor): The method is mainly composed by: 
+    - Won the 2nd place in StructSeg task2 (head and neck tumor): The method is mainly composed by: 
       1. Cropping data in large and small image mode for ensemble of features in different scales. 
       2. A variant of the U-Net, in which each block was preceded by a ‘Project Excite’ (PE) block. It can recalibrate feature maps spatial-wisely on 3D volumetric images. The paper describing above methods is accepted by Neurocomputing.
 
