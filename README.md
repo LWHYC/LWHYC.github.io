@@ -27,10 +27,12 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
     - Won the 3rd place in MICCAI 2019 Automatic Structure Segmentation for Radiotherapy Planning (StructSeg) Challenge task 1 (head and neck organ). The method is mainly composed of:
       1. Segmental Linear Functions (SLFs) transform the intensity of CT images to make multiple organs more distinguishable than existing methods. 
       2. A novel 2.5D network specially designed for dealing with clinic H&N CT scans with anisotropic spacing. 
-      3. Our proposed attention to hard voxels (ATH) uses a voxel-level hardness strategy, which is more suitable to dealing with some hard regions despite that its corresponding class may be easy. The paper describing above methods is under revision of Neurocomputing (IF=4.438).
+      3. Our proposed attention to hard voxels (ATH) uses a voxel-level hardness strategy, which is more suitable to dealing with some hard regions despite that its corresponding class may be easy. 
+      The paper describing above methods is under revision of Neurocomputing (IF=4.438).
     - Won the 2nd place in StructSeg task2 (head and neck tumor): The method is mainly composed by: 
       1. Cropping data in large and small image mode for ensemble of features in different scales. 
-      2. A variant of the U-Net, in which each block was preceded by a ‘Project Excite’ (PE) block. It can recalibrate feature maps spatial-wisely on 3D volumetric images. The paper describing above methods is accepted by Neurocomputing.
+      2. A variant of the U-Net, in which each block was preceded by a ‘Project Excite’ (PE) block. It can recalibrate feature maps spatial-wisely on 3D volumetric images. 
+      The paper describing above methods is accepted by Neurocomputing.
 - [MyoPS 2020 challenge](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/MyoPS20/):
     - Won the 1st place in MICCAI 2020 Myocardial Pathology Segmentation Combining Multi-sequence CMR Challenge: Proposed a weighted ensemble coarse-to-fine framework for myocardial edema and scars segmentation. It consists of:
         1. Coarse-to-fine model which first predict the cardiac structure area and then output a detailed prediction.
