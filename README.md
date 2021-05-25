@@ -1,6 +1,6 @@
 ## Wenhui Lei
 <div  align="center"> 
-<img src="./IMG/img.JPG" style="zoom:10%" align="right">
+<img src="./IMG/Photo.jpg" style="zoom:10%" align="right">
 </div>
 University of Electronic Science and Technology of China (UESTC), Sichuan, China
 
