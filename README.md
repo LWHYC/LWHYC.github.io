@@ -60,6 +60,4 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
     - Advisor: Pro. Yu Liu, UESTC
     - Research: Basic knowledge of Deep Learning and Machine Learning.
     
-### Standard Test
-- IELTS: 7.0 (Listening: 8.0, Reading: 7.0, Writing: 6.0, Speaking: 6.0)
 
