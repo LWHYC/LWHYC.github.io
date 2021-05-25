@@ -15,12 +15,11 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 -	Image Guided Intervention
 
 ### Publications
--	**Lei, W.**, Mei, H., Sun, Z., Ye, S., Gu, R., Wang, H., Huang, R., Zhang, S., Zhang, S. and Wang, G., Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss, **Neurocomputing**, 2020 (1st round revision).
+-	**Lei, W.**, Wei, X., Gu, R., Hao, F., Zhang, S. and Wang, G., Contrastive Learning of Relative Position Regression for One-Shot Object Localization in 3D Medical Images (Early accepted by **MICCAI**, 2021).
+-	**Lei, W.**, Mei, H., Sun, Z., Ye, S., Gu, R., Wang, H., Huang, R., Zhang, S., Zhang, S. and Wang, G., Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss, **Neurocomputing**, 2021.
 -	**Lei, W.**, Wang, H., Gu, R., Zhang, S., Zhang, S. and Wang, G.. "DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs."  **MICCAI Workshop LABELs(oral)**, pp. 61-69, 2019.
--	**Lei, W.**, Mei, H., Gu, R., Zhang, S., Zhang, S. and Wang, G., Thoracic Organs-at-Risks Segmentation using Learnable Intensity Transform and Centroid Distance Regression (under revision).
--	**Lei, W.**, Wei, X., Gu, R., Hao, F., Zhang, S. and Wang, G., One-Shot Object Localization in Medical Images based on Relative Position Regression (submitted to **IPMI**, 2021).
--	Mei, H., **Lei, W.**, Gu, R., Ye, S., Sun, Z., Zhang, S. and Wang, G., Automatic Segmentation of Gross Target Volume of Nasopharynx Cancer using Ensemble of Multiscale Deep Neural Networks with Spatial Attention, **Neurocomputing**, 2020 (accepted).
--	Zhai, S., Gu, R., **Lei, W.**, and Wang, G., "A Weighted Ensemble Coarse-to-fine Framework for Myocardial Edema and Scars Segmentation" **MICCAI Workshop MyoPS**, 2020 (accepted).
+-	Mei, H., **Lei, W.**, Gu, R., Ye, S., Sun, Z., Zhang, S. and Wang, G., Automatic Segmentation of Gross Target Volume of Nasopharynx Cancer using Ensemble of Multiscale Deep Neural Networks with Spatial Attention, **Neurocomputing**, 2021.
+-	Zhai, S., Gu, R., **Lei, W.**, and Wang, G., "A Weighted Ensemble Coarse-to-fine Framework for Myocardial Edema and Scars Segmentation" **MICCAI Workshop MyoPS**, 2020.
 -	Liu, Z., Wang, H., **Lei, W.**, Wang, G.. "CSAF-CNN: Cross-Layer Spatial Attention Map Fusion Network for Organ-at-Risk Segmentation in Head and Neck CT Images." **ISBI**, pp. 1522-1525, 2020.
 -	Wang, H, Wang, G., Xu, Z., **Lei, W.**, Zhang, S.. "High-and Low-Level Feature Enhancement for Medical Image Segmentation." **MICCAI Workshop MLMI**, pp. 611-619, 2019.
 
