@@ -15,13 +15,13 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 -	Image Guided Intervention
 
 ### Publications
--	**Lei, W.**, Wei, X., et al., Contrastive Learning of Relative Position Regression for One-Shot Object Localization in 3D Medical Images , Early accepted by **MICCAI**, 2021.
--	**Lei, W.**, Mei, H., et al., Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss, **Neurocomputing**, 2021.
--	**Lei, W.**, Wang, H., et al., "DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs."  **MICCAI 2019 LABELs(oral)**, 2019.
--	Mei, H., **Lei, W.**, et al., Automatic Segmentation of Gross Target Volume of Nasopharynx Cancer using Ensemble of Multiscale Deep Neural Networks with Spatial Attention, **Neurocomputing**, 2021.
--	Zhai, S., Gu, R., **Lei, W.**, and Wang, G., "A Weighted Ensemble Coarse-to-fine Framework for Myocardial Edema and Scars Segmentation" **MICCAI Workshop MyoPS**, 2020.
--	Liu, Z., Wang, H., **Lei, W.**, Wang, G.. "CSAF-CNN: Cross-Layer Spatial Attention Map Fusion Network for Organ-at-Risk Segmentation in Head and Neck CT Images." **ISBI**,  2020.
--	Wang, H, Wang, G., Xu, Z., **Lei, W.**, Zhang, S.. "High-and Low-Level Feature Enhancement for Medical Image Segmentation." **MICCAI Workshop MLMI**, 2019.
+-	Contrastive Learning of Relative Position Regression for One-Shot Object Localization in 3D Medical Images , Early accepted by **MICCAI**, 2021. **Lei, W.**, Wei, X., et al.
+-	Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss, **Neurocomputing**, 2021. **Lei, W.**, Mei, H., et al.
+-	"DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs."  **MICCAI 2019 LABELs(oral)**, 2019. **Lei, W.**, Wang, H., et al.
+-   Automatic Segmentation of Gross Target Volume of Nasopharynx Cancer using Ensemble of Multiscale Deep Neural Networks with Spatial Attention, **Neurocomputing**, 2021. Mei, H., **Lei, W.**, et al.
+-	"A Weighted Ensemble Coarse-to-fine Framework for Myocardial Edema and Scars Segmentation" **MICCAI Workshop MyoPS**, 2020. Zhai, S., Gu, R., **Lei, W.**, and Wang, G.,
+-	"CSAF-CNN: Cross-Layer Spatial Attention Map Fusion Network for Organ-at-Risk Segmentation in Head and Neck CT Images." **ISBI**,  2020. Liu, Z., Wang, H., **Lei, W.**, Wang, G.
+-	"High-and Low-Level Feature Enhancement for Medical Image Segmentation." **MICCAI Workshop MLMI**, 2019. Wang, H, Wang, G., Xu, Z., **Lei, W.**, Zhang, S.
 
 ### Challenges
 
