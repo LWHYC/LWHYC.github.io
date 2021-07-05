@@ -15,7 +15,8 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 -	Image Guided Intervention
 
 ### Publications
--	Contrastive Learning of Relative Position Regression for One-Shot Object Localization in 3D Medical Images , Early accepted by **MICCAI**, 2021. **Lei, W.**, Wei, X., et al.
+-   Domain Composition and Attention for Unseen-Domain Generalizable Medical Image Segmentation, Accepted by **MICCAI**, 2021. Gu Ran, Zhang Jingyang, Huang Rui, **Lei Wenhui**, et al.
+-	Contrastive Learning of Relative Position Regression for One-Shot Object Localization in 3D Medical Images, Early accepted by **MICCAI**, 2021. **Lei, W.**, Wei, X., et al.
 -	Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss, **Neurocomputing**, 2021. **Lei, W.**, Mei, H., et al.
 -	"DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs."  **MICCAI 2019 LABELs(oral)**, 2019. **Lei, W.**, Wang, H., et al.
 -   Automatic Segmentation of Gross Target Volume of Nasopharynx Cancer using Ensemble of Multiscale Deep Neural Networks with Spatial Attention, **Neurocomputing**, 2021. Mei, H., **Lei, W.**, et al.
