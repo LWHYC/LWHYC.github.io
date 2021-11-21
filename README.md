@@ -2,9 +2,9 @@
 <div  align="center"> 
 <img src="./IMG/Photo.jfif" style="zoom:10%" align="right">
 </div>
-University of Electronic Science and Technology of China (UESTC), Sichuan, China
+Shanghai Jiaotong University (SJTU), Shanghai, China
 
-(86) 19983488202丨wenhui.lei@std.uestc.edu.cn
+(86) 19983488202丨lyc745307452@gmail.com
 
 Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 
