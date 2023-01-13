@@ -11,9 +11,9 @@ Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 ### Research Interests
 -	Medical Image Analysis; Few-shot Learning; Vision-Language Representation; Casual Inference
 ### News
--   2022. One paper for Domain Adaptation is accepted by **TMI**!
--   2022. One paper for Brain Structure segmentation is accepted by **JBHI**!
--   2022. One paper for Pulmonary Embolism detection is accepted by **MICCAI2022**!
+-   2022.. One paper for Domain Adaptation is accepted by **TMI**!
+-   2022.. One paper for Brain Structure segmentation is accepted by **JBHI**!
+-   2022.. One paper for Pulmonary Embolism detection is accepted by **MICCAI2022**!
 -   Won the **MICCAI2021 Student Travel Award**!
 ### [Publications](https://scholar.google.com/citations?user=kvD7060AAAAJ&hl=zh-CN)
 -   One-shot Weakly-Supervised Segmentation in Medical Images, arXiv preprint arXiv:2111.10773, 2021. **Lei Wenhui**, Su Qi, et al.
