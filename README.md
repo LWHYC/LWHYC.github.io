@@ -9,8 +9,10 @@ Shanghai Jiaotong University (SJTU), Shanghai, China
 Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 
 ### Research Interests
--	Medical Image Analysis; Few-shot Learning; Vision-Language Representation; Casual Inference
+-	Medical Image Analysis; Label-effecient Learning; Vision-Language Representation
 ### News
+-   2023.. One paper for One-shot Segmentation is accepted by **TMI**!
+-   2023.. One paper for Effecient Subclass Learning is accepted by **MICCAI 2023**! 
 -   2022.. One paper for Domain Adaptation is accepted by **TMI**!
 -   2022.. One paper for Brain Structure segmentation is accepted by **JBHI**!
 -   2022.. One paper for Pulmonary Embolism detection is accepted by **MICCAI2022**!
