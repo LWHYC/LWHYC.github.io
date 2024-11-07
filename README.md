@@ -4,22 +4,33 @@
 </div>
 Shanghai Jiaotong University (SJTU), Shanghai, China
 
-(86) 19983488202丨lyc745307452@gmail.com
+lyc745307452@gmail.com
 
 Git: [https://github.com/LWHYC](https://github.com/LWHYC)
 
 ### Research Interests
--	Medical Image Analysis; Label-effecient Learning; Vision-Language Representation
+-	Multi-Modality Learning; 
+-   Foundation Models; 
+-   Image Generation; 
+-   Self-supervised Learning;
+-   Label Efficient Learning
 ### News
--   2023.. One paper for One-shot Segmentation is accepted by **TMI**!
--   2023.. One paper for Effecient Subclass Learning is accepted by **MICCAI 2023**! 
--   2022.. One paper for Domain Adaptation is accepted by **TMI**!
--   2022.. One paper for Brain Structure segmentation is accepted by **JBHI**!
--   2022.. One paper for Pulmonary Embolism detection is accepted by **MICCAI2022**!
+-   2024.. One paper for [Localization Foundation Model](https://www.sciencedirect.com/science/article/pii/S1361841524002950) is accepted by **MIA**!
+-   2023.. One paper for [One-shot Segmentation](https://ieeexplore.ieee.org/abstract/document/10183778) is accepted by **TMI**!
+-   2023.. One paper for [Generalizable Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841523001640) is accepted by **MIA**!
+-   2023.. One paper for [Effecient Subclass Learning](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_25) is early accepted by **MICCAI 2023**!
+-   2023.. One paper for [Brain Organ-at-Risk Segmentation](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16247) is accepted by **Medical Physics**!
+-   2022.. One paper for [Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/9903480) is accepted by **TMI**!
+-   2022.. One paper for [Brain Structure segmentation](https://ieeexplore.ieee.org/abstract/document/9793692) is accepted by **JBHI**!
+-   2022.. One paper for [Head-and-Neck Organ-at-Risk Segmentation](https://www.sciencedirect.com/science/article/pii/S0925231221002587) is accepted by **Neurocomputing**!
+-   2022.. One paper for [Gross Target Volume of Nasopharynx Cancer Segmentation](https://www.sciencedirect.com/science/article/pii/S0925231221001077) is accepted by **Neurocomputing**!
 -   Won the **MICCAI2021 Student Travel Award**!
+-   2021.. One paper for [One-shot Localization](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_15) is accepted by **MICCAI 2021**!
+-   2019.. One paper for [Interactive Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-33642-4_7) is accepted by **MICCAI LABELS 2019** as **oral presentation**!
+
 ### [Publications](https://scholar.google.com/citations?user=kvD7060AAAAJ&hl=zh-CN)
--   One-shot Weakly-Supervised Segmentation in Medical Images, arXiv preprint arXiv:2111.10773, 2021. **Lei Wenhui**, Su Qi, et al.
--	Contrastive Learning of Relative Position Regression for One-Shot Object Localization in 3D Medical Images, Early accepted by **MICCAI**, 2021. **Lei Wenhui**, Wei, X., et al.
+-   One-shot Weakly-Supervised Segmentation in Medical Images, **IEEE Transactions on Medical Imaging**, 2022. **Lei Wenhui**, Su Qi, et al.
+-	Contrastive Learning of Relative Position Regression for One-Shot Object Localization in 3D Medical Images, **MICCAI** (Early accepted, student travel award), 2021. **Lei Wenhui**, Wei, X., et al.
 -   Domain Composition and Attention for Unseen-Domain Generalizable Medical Image Segmentation, Accepted by **MICCAI**, 2021. Gu Ran, Zhang Jingyang, Huang Rui, **Lei Wenhui**, et al.
 -	Automatic Segmentation of Organs-at-Risk from Head-and-Neck CT using Separable Convolutional Neural Network with Hard-Region-Weighted Loss, **Neurocomputing**, 2021. **Lei, W.**, Mei, H., et al.
 -	"DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs."  **MICCAI Workshop LABELs(oral)**, 2019. **Lei, W.**, Wang, H., et al.
